@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|solutionrelative:app1\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|solutionrelative:app1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8345E7B6-4BE0-4907-8A17-581898AC3492}|app1\\app1.vcxproj|solutionrelative:app1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.cpp",
+              "RelativeDocumentMoniker": "app1\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.cpp",
+              "RelativeToolTip": "app1\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T07:33:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h",
+              "RelativeDocumentMoniker": "app1\\MyForm.h",
+              "ToolTip": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h",
+              "RelativeToolTip": "app1\\MyForm.h",
+              "ViewState": "AQIAANEAAAAAAAAAAAAUwOgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T07:10:43.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.h [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h",
+              "RelativeDocumentMoniker": "app1\\MyForm.h",
+              "ToolTip": "C:\\Users\\Programista\\Desktop\\Bartek Janik\\23.04.2024_appDesktopowe\\app1\\app1\\MyForm.h [Projekt]",
+              "RelativeToolTip": "app1\\MyForm.h [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T07:06:35.4Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
